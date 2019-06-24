@@ -18,6 +18,6 @@ In a world where movies made an estimated $41.7 billion in 2018, the film indust
 
 ## [My First Web Scraper](https://github.com/andreduong/my-first-web-scraper)
 
-![pic](pictures/basketball.png)
+![ball](pictures/basketball.png)
 
 I am a big NBA fan. As the season has ended, here we are scraping the top NBA player stats this season. In this project, I tried web scraping for the first time ever using BeautifulSoup, and then performed some brief data analysis.
