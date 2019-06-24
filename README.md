@@ -14,7 +14,9 @@ More information about my academic journey can be found in my [resume]. (links w
 
 ![pic](pictures/pic.PNG)
 
-In a world where movies made an estimated $41.7 billion in 2018, the film industry is more popular than ever. But what movies make the most money at the box office? How much does a director matter? Or the budget? Having been following box office as a side hobby for a while, this project was definitely one of my favorites to do. In this project, I practiced data cleaning, exploratory data analysis, data visualization, feature engineering, building various boosting models (XGBoost, CatBoost), and simple ensemble learning.
+In a world where movies made an estimated $41.7 billion in 2018, the film industry is more popular than ever. But what movies make the most money at the box office? How much does a director matter? Or the budget? 
+
+Having been following box office as a side hobby for a while, this project was definitely one of my favorites to do. In this project, I practiced data cleaning, exploratory data analysis, data visualization, feature engineering, building various boosting models (XGBoost, CatBoost), and simple ensemble learning.
 
 
 ## [My First Web Scraper](https://github.com/andreduong/my-first-web-scraper)
