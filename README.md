@@ -1,16 +1,14 @@
 # Data Science Portfolio
 
----
-
-# About Me
+## About Me
 
 I am a rising second-year Computer Science student at The University of Texas at Dallas. More information about my academic journey can be found in my [resume]. (links will be updated soon).
 
-# My Projects
+## My Projects
 
 This is a list of the projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
 
-## [Box Office Prediction: A Project](https://github.com/andreduong/box-office-prediction)
+### [Box Office Prediction: A Project](https://github.com/andreduong/box-office-prediction)
 
 ![pic](pictures/pic.PNG)
 
@@ -20,7 +18,7 @@ Having been following box office as a side hobby for a while, this project was d
 
 ---
 
-## [My First Web Scraper](https://github.com/andreduong/my-first-web-scraper)
+### [My First Web Scraper](https://github.com/andreduong/my-first-web-scraper)
 
 ![ball](pictures/basketball.png)
 
