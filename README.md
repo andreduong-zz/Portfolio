@@ -8,6 +8,8 @@ I am a rising second-year Computer Science student at The University of Texas at
 
 This is a list of the projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
 
+---
+
 ### [Box Office Prediction: A Project](https://github.com/andreduong/box-office-prediction)
 
 ![pic](pictures/pic.PNG)
