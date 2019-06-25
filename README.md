@@ -18,7 +18,7 @@ In a world where movies made an estimated $41.7 billion in 2018, the film indust
 
 Having been following box office as a side hobby for a while, this project was definitely one of my favorites to do. In this project, I practiced data cleaning, exploratory data analysis, data visualization, feature engineering, building various boosting models (XGBoost, CatBoost), and simple ensemble learning.
 
-**Keywords:** Data Cleaning, EDA, Feature Engineering, XGBoost, CatBoost, Ensemble Learning
+**Keywords:** Data Cleaning, EDA, Feature Engineering, Dimensionality Reduction, XGBoost, CatBoost, Ensemble Learning
 
 ---
 
