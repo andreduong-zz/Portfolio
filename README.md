@@ -4,7 +4,7 @@
 
 I am a rising second-year Computer Science student at The University of Texas at Dallas. More information about my academic journey can be found in my [resume]. (links will be updated soon).
 
-## My Projects
+## Projects
 
 This is a list of the projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
 
