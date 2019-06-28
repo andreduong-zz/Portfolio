@@ -2,9 +2,7 @@
 
 ## About Me
 
-I am a rising second-year Computer Science student at The University of Texas at Dallas. More information about my academic journey can be found in my [resume]. (links will be updated soon).
-
-My Personal Website: https://andreduong.me
+I am a rising second-year Computer Science student at The University of Texas at Dallas. More information about my academic journey can be found [here](http://andreduong.me/about/).
 
 ## Projects
 
