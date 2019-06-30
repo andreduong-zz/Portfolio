@@ -10,6 +10,18 @@ This is a list of the projects I worked on or currently working on. It is update
 
 ---
 
+### [Credit Card Clustering](https://github.com/andreduong/credit-card-clustering)
+
+![pic](pictures/header_cc.png)
+
+The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. You need to develop a customer segmentation to define marketing strategy from the dataset.
+
+In this project, I practiced data preprocessing, feature extraction with PCA, looked at various clustering metrics (inertias, silhouette scores), experimented with various Clustering algorithms (KMeans Clustering, Agglomerative Hierarchical Clustering, Gaussian Mixture Clustering), data visualizations, and business analytics. This is also my first try on the business side of Data Science.
+
+**Keywords:** Data Cleaning, EDA, Feature Extraction, PCA, Inertias, Silhouette Scores, K-Means Clustering, Agglomerative Hierarchical Clustering, Gaussian Mixture Clustering
+
+---
+
 ### [Box Office Prediction: A Project](https://github.com/andreduong/box-office-prediction)
 
 ![pic](pictures/pic.PNG)
