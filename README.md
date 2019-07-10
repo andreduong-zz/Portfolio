@@ -12,7 +12,7 @@ This is a list of the projects I worked on or currently working on. It is update
 
 ### [Credit Card Clustering](https://github.com/andreduong/credit-card-clustering)
 
-![pic](pictures/header_cc.png)
+![pic](pictures/cc_header.png)
 
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. You need to develop a customer segmentation to define marketing strategy from the dataset.
 
