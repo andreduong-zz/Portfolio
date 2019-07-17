@@ -50,11 +50,25 @@ In this project, I practiced data preprocessing, feature extraction with PCA, lo
 
 ![pic](pictures/pic.PNG)
 
-In a world where movies made an estimated $41.7 billion in 2018, the film industry is more popular than ever. But what movies make the most money at the box office? How much does a director matter? Or the budget? 
+In a world where movies made an estimated $41.7 billion in 2018, the film industry is more popular than ever. But what movies make the most money at the box office? How much does a director matter? Or the budget? Having been following box office as a side hobby for a while, this project was definitely one of my favorites to do.
 
-Having been following box office as a side hobby for a while, this project was definitely one of my favorites to do. In this project, I practiced data cleaning, exploratory data analysis, data visualization, feature engineering, building various boosting models (XGBoost, CatBoost), and simple ensemble learning.
+In this project, I went through the entire data science lifecycle, including:
 
-**Keywords:** Data Cleaning, EDA, Feature Engineering, Dimensionality Reduction, XGBoost, CatBoost, Ensemble Learning
+* Data wrangling/preprocessing
+
+* Exploratory data analysis/Data visualization
+
+* Feature engineering
+
+* Pipelines Building
+
+* Dimensionality reduction with TruncatedSVD
+
+* Building various boosting models (XGBoost, LightGBM)
+
+* Applying simple ensemble method (stacking)
+
+**Keywords:** Data Wrangling, EDA, Feature Engineering, Dimensionality Reduction, SVD, XGBoost, LightGBM, Ensemble Learning, Stacking
 
 ---
 
