@@ -10,6 +10,30 @@ This is a list of the projects I worked on or currently working on. It is update
 
 ---
 
+### [Cactus Identification: A Walkthrough from CNN to Transfer Learning with Pre-Trained Model VGG16](https://github.com/andreduong/aerial-cactus-identification)
+
+![pic](pictures/test-10.png)
+
+This project was my introduction to the world of Computer Vision using Deep Learning. In this write-up, I will do a walkthrough of the whole classifier making process, including:
+
+* Data preprocessing
+
+* Build a Convolutional Neural Network 
+
+* Evaluate the model
+
+* Make tweaks to improve performance: data augmentation, progressive resizing
+
+* Apply transfer learning with a pre-trained model (VGG16)
+
+* Test the model by making prediction on first 10 images from the test set
+
+* Experiment with interactive testing using OpenCV
+
+**Keywords:** Neural Network, CNN, Data Augmentation, Progressive Resizing, Transfer Learning, Pre-Trained Model, VGG16, OpenCV
+
+---
+
 ### [Credit Card Clustering](https://github.com/andreduong/credit-card-clustering)
 
 ![pic](pictures/cc_header.png)
