@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a second-year, Undergraduate student majoring in Computer Science at The University of Texas at Dallas.  More information about my academic journey can be found in [my website](http://andreduong.me/about/).
+I am a Sophomore, CS Undergrad @ The University of Texas at Dallas.  More information about my academic journey can be found in [my website](http://andreduong.me/about/).
 
 ## Projects
 
