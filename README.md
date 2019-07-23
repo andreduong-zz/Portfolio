@@ -72,6 +72,16 @@ In this project, I went through the entire data science lifecycle, including:
 
 ---
 
+### [Dog Or Cat - A Simple Computer Vision Flask API](https://github.com/andreduong/dog-vs-cat-flask-api)
+
+![api](pictures/home.png)
+
+When a data scientist develops a machine learning model, the ultimate goal is to make it available in production. However, a lot of the times we just want a simple way to call a REST API and get predictions using the current classifier. In this project, I created a Computer Vision Flask API to classify dog/cat and find the most dominant color in a picture.
+
+**Keywords:** Flask, REST API, Computer Vision, Model Deployment
+
+---
+
 ### [My First Web Scraper](https://github.com/andreduong/my-first-web-scraper)
 
 ![ball](pictures/basketball.png)
@@ -79,5 +89,3 @@ In this project, I went through the entire data science lifecycle, including:
 I am a big NBA fan. As the season has ended, here we are scraping the top NBA player stats this season. In this project, I tried web scraping for the first time ever using BeautifulSoup, and then performed some brief data analysis.
 
 **Keywords:** Web Scraping, BeautifulSoup, EDA
-
----
