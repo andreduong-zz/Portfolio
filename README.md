@@ -10,6 +10,24 @@ This is a list of the projects I worked on or currently working on. It is update
 
 ---
 
+### [Drake Analysis: A Deeper Look Into The Discography Of Canada's Rap King](https://github.com/andreduong/drake-analysis)
+
+![drake](pictures/drake_header.png)
+
+Hip-Hop is my favorite music genre of all time, and Drake is an artist I've listened to for years. Many text mining analyses have been performed on rap lyrics, but I haven't seen enough works that actually dig deeper into one specific artist's discography (or in this case, Drake's discography). In this project, I apply various Natural Language Process techniques to analyze Drake's lyrics:
+
+* Scraped 500 songs info with lyrics from genius.com
+
+* Performed data wrangling and exploratory data analysis with Matplotlib and Seaborn
+
+* Applied various NLP techniques: word embedding, bag-of-words, tokenization with NLTK, NER with SpaCy
+
+* Topic modeling with LDA, dimensionality reduction with t-SNE, interactive topic visualization with pyLDAvis
+
+**Keywords:** NLP, web scraping, data wrangling, EDA, word embedding, bag-of-words, tokenization, NLP, SpaCy, Named Entity Recognition (NER), Topic Modeling, Latent Dirichlet Allocation (LDA), dimensionality reduction, t-SNE, interactive visualization, pyLDAvis
+
+---
+
 ### [Cactus Identification: A Walkthrough from CNN to Transfer Learning with Pre-Trained Model VGG16](https://github.com/andreduong/aerial-cactus-identification)
 
 ![pic](pictures/test-10.png)
@@ -28,7 +46,7 @@ This project was my introduction to the world of Computer Vision using Deep Lear
 
 * Test the model by making prediction on first 10 images from the test set
 
-* Experiment with interactive testing using OpenCV
+* Experiment with OpenCV
 
 **Keywords:** Neural Network, CNN, Data Augmentation, Progressive Resizing, Transfer Learning, Pre-Trained Model, VGG16, OpenCV
 
@@ -40,7 +58,13 @@ This project was my introduction to the world of Computer Vision using Deep Lear
 
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. You need to develop a customer segmentation to define marketing strategy from the dataset.
 
-In this project, I practiced data preprocessing, feature extraction with PCA, looked at various clustering metrics (inertias, silhouette scores), experimented with various Clustering algorithms (KMeans Clustering, Agglomerative Hierarchical Clustering, Gaussian Mixture Clustering), data visualizations, and business analytics. This is also my first try on the business side of Data Science.
+In this project, I:
+
+* Developed marketing strategies for six segmented customer groups
+
+* Experimented with clustering models (K-Means, Agglomerative Hierarchical Clustering, Gaussian Mixture)
+
+* Practiced data cleaning, exploratory data analysis, data visualization, feature extraction using PCA
 
 **Keywords:** Data Cleaning, EDA, Feature Extraction, PCA, Inertias, Silhouette Scores, K-Means Clustering, Agglomerative Hierarchical Clustering, Gaussian Mixture Clustering
 
