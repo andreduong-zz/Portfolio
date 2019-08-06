@@ -10,6 +10,28 @@ This is a list of the projects I worked on or currently working on. It is update
 
 ---
 
+### [Market Basket Analysis with SQL, Association Rule, and the Apriori Algorithm](https://github.com/andreduong/market-basket-analysis)
+
+![mba](pictures/mba-header.png)
+
+The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, we provide between 4 and 100 of their orders, with the sequence of products purchased in each order. In this project, I will use this anonymized data from Instacart on customer orders over time to practice some SQL queries with PostgreSQL database, then try to find interesting purchase combinations with Association Analysis and the Apriori algorithm.
+
+What I learned from this project:
+
+* Utilized SQLAlchemy, which gives full power and flexibility of SQL
+
+* Practiced SQL queries: CREATE, SELECT, FROM, JOIN, DROP, INNER JOIN, etc.
+
+* Worked with PostgreSQL database
+
+* Association Analysis: a classic business intelligence data mining problem
+
+* Implemented Apriori algorithm with Python library MLxtend
+
+**Keywords:** SQL, SQLAlchemy, PostgreSQL, Association Rule (Support/Confidence/Lift), Association Analysis, Apriori algorithm, MLxtend
+
+---
+
 ### [Drake Analysis: A Deeper Look Into The Discography Of Canada's Rap King](https://github.com/andreduong/drake-analysis)
 
 ![drake](pictures/drake_header.png)
