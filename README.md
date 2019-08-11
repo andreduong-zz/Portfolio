@@ -128,7 +128,7 @@ When a data scientist develops a machine learning model, the ultimate goal is to
 
 ---
 
-### [My First Web Scraper](https://github.com/andreduong/my-first-web-scraper)
+### [Scraping NBA Data](https://github.com/andreduong/my-first-web-scraper)
 
 ![ball](pictures/basketball.png)
 
