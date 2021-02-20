@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Sophomore, CS Undergrad @ The University of Texas at Dallas.  More information about my academic journey can be found in [my website](http://andreduong.me). [My resume](http://andreduong.me/resume.pdf).
+I am a Junior, CS Undergrad student @ The University of Texas at Dallas.  More information about my academic journey can be found in [my website](http://andreduong.dev). [My resume](http://andreduong.dev/resume.pdf).
 
 ## Projects
 
